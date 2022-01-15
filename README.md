@@ -25,9 +25,9 @@ This was a hands-on React project provided by John Smilga as part of his [Udemy 
 
 A basic responsive navigation bar logo, navigation links, and social media icons.
 
-- useRef() is used to resize a mobile menu's container size dynamically based on the number of menu items used.
+- getBoundlientRect().height is used to obtain the height of the ul container which holds the menu items.
 
-- getBoundlientRect().height is used to obtain the height of the ul element which holds the menu items, ensuring the ul element adjusts accordingly.
+- Utilizing the container's height and useRef(), the mobile menu's container size adjusts dynamically based on the number of menu items used.
 
 ## Functionality:
 
