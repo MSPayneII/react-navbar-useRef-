@@ -9,8 +9,8 @@
 
 ### Screenshot
 
-![smallScreen](public/smallscreen.png)
-![largeScreen](public/largescreen.png)
+![smallScreen](public/smallScreen.png)
+![largeScreen](public/largeScreen.png)
 
 ### Links
 
