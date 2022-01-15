@@ -21,13 +21,19 @@
 
 This was a hands-on React project provided by John Smilga as part of his [Udemy React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/). This project was designed to help students become familiar with useRef().
 
-## Functionality:
+## What is it?
 
-A responsive navigation bar with logo, navigation links and social media icons on disappear from large screens. On small screens, navigation links and social media icons are replaced with a hamburger menu. Clicking the hamburger menu displays the navigation links.
+A basic responsive navigation bar logo, navigation links, and social media icons.
 
 - useRef() is used to resize a mobile menu's container size dynamically based on the number of menu items used.
 
 - getBoundlientRect().height is used to obtain the height of the ul element which holds the menu items, ensuring the ul element adjusts accordingly.
+
+## Functionality:
+
+On small screens, navigation links and social media icons are replaced with a hamburger menu.
+
+- Clicking the hamburger menu displays the navigation links in a column.
 
 ## Technologies:
 
